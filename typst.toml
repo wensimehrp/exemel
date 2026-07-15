@@ -1,0 +1,23 @@
+[package]
+name = ""
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = []
+license = "Apache-2.0"
+description = ""
+homepage = ""
+repository = ""
+keywords = []
+categories = []
+disciplines = []
+# compiler = ""
+exclude = [
+  ".github",
+  "docs",
+  "scripts",
+  "tests",
+  ".typstignore",
+  "Justfile",
+  "thumbnail-dark.svg",
+  "thumbnail-light.svg",
+]
